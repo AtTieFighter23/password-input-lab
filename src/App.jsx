@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="app">
-      <h1>Secure Password Entry</h1>
+      <h1>Secure Password Entry - v2</h1>
       <p>Anti-bot monitoring enabled.</p>
       
       <form>
